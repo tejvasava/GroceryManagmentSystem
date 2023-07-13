@@ -1,0 +1,22 @@
+======================================================
+To genereate token for Admin
+-------------------------------------------------------
+email:admin@gmail.com
+password:admin
+========================================================
+After Token generate for Admin. Admin can create role
+--------------------------------------------------------
+Need to create this default  Role with postman by Admin:
+
+1.Customer
+2.sales manager
+===========================================================
+To generate token for other role or customer 
+--------------------------------------------------
+email:<email of customer/ role>
+password:<given password at time of register/create role>
+===========================================================
+Postman collection is attached in src/main/resource folder!!
+
+Database name: groceryDB290
+
